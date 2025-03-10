@@ -2,6 +2,7 @@
 
 #### Directory Structure ####
 
+```
 app/
 ├── node_modules (removed, can be added via installation)
 ├── public/
@@ -34,6 +35,7 @@ app/
 ├── package.json
 ├── README.md (This file)
 └── secretkey.js
+```
 
 #### Versions used in this template ####
 
