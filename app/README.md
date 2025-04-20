@@ -1,5 +1,7 @@
 # University-of-London-Agile-Project
 
+Link to Video - https://youtu.be/jHC6iWBWWCI
+
 #### Directory Structure ####
 
 ```
@@ -153,7 +155,3 @@ You should be able to ONLY run ```npm install```, ```npm run build-db```, and ``
 - **Create Note page**: No login is required. Users can type their notes, use equation solver, scientific and graphic calculators.
 
 - **Save, edit or delete notes**: Requires account creation. Users can save multiple notes, edit or delete them.
-
-## Link to Video
-
-https://youtu.be/jHC6iWBWWCI
