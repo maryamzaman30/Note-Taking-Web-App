@@ -87,6 +87,7 @@ To able to save your notes, you'll need to create an account. There's some authe
 
 A breakdown of the npm dependencies we have used and their uses in code:
 
+```
 -Project
 ├── axios@1.7.4 ```HTTP client for making requests.```
 ├── bcryptjs@2.4.3 ```Hashes passwords securely.```
@@ -95,6 +96,7 @@ A breakdown of the npm dependencies we have used and their uses in code:
 ├── express-session@1.18.0 ```Manages user sessions.```
 ├── express@4.19.2 ```Web framework for Node.js.```
 └── sqlite3@5.1.7 ```SQLite database bindings for Node.js.```
+```
 
 ## Additional Libraries
 
